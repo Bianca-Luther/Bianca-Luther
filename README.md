@@ -28,12 +28,6 @@ Aqui você encontra um pouquinho dos meus projetos!
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bianca-Luther&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-# Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bianca-Luther&repo=Bianca-Luther.github.io&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 # Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/bianca-novaes-luther-0ab29b245/)
